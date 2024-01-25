@@ -1,7 +1,7 @@
 # debugm2
 Press create server ...
 Then press "test". It will return bad request and the exception is like the one below.
-The press checkbox "use direct ..." to test again with success (this method throws very rare errors)
+Then, press checkbox "Run test with ..." to test again with success (this method throws very rare errors)
 
 
 <img src="https://github.com/info-synapse/debugm2/blob/main/screenshot1.png" width="50%" height="50%">
